@@ -2,73 +2,73 @@
   "items": [
     {
       "id": 1,
-      "title": "pencil",
-	  "cost": 1.99
+      "description": "pencil",
+	  "price": 1.99
     },
 	{
       "id": 2,
-      "title": "Pen Set",
-	  "cost": 4.99
+      "description": "Pen Set",
+	  "price": 4.99
     },
 	{
       "id": 3,
-      "title": "Belkin Boost Up Wireless Charging Dock",
-	  "cost": 119.99
+      "description": "Belkin Boost Up Wireless Charging Dock",
+	  "price": 119.99
     },
 	{
       "id": 4,
-      "title": "USB Charging Station",
-	  "cost": 19.99
+      "description": "USB Charging Station",
+	  "price": 19.99
     },
 	{
       "id": 5,
-      "title": "Samsung QN75Q60RAFXZA Flat 75-Inch QLED 4K Q60 Series Ultra HD Smart TV",
-	  "cost": 1497.99
+      "description": "Samsung QN75Q60RAFXZA Flat 75-Inch QLED 4K Q60 Series Ultra HD Smart TV",
+	  "price": 1497.99
     },
 	{
       "id": 6,
-      "title": "Samsung Harman Kardon 5.1 Soundbar",
-	  "cost": 277.99
+      "description": "Samsung Harman Kardon 5.1 Soundbar",
+	  "price": 277.99
     },
 	{
       "id": 7,
-      "title": "Osmo - Genius Kit for Fire Tablet - 5",
-	  "cost": 69.99
+      "description": "Osmo - Genius Kit for Fire Tablet - 5",
+	  "price": 69.99
     },
 	{
       "id": 8,
-      "title": "Snap Circuits Snaptricity, Electronics Exploration Kit",
-	  "cost": 30.99
+      "description": "Snap Circuits Snaptricity, Electronics Exploration Kit",
+	  "price": 30.99
     },
 	{
       "id": 9,
-      "title": "Apple Watch Series 3 ",
-	  "cost": 229.00
+      "description": "Apple Watch Series 3 ",
+	  "price": 229.00
     },
 	{
       "id": 10,
-      "title": "Melissa & Doug Scratch Art Box of Rainbow Mini Notes",
-	  "cost": 18.99
+      "description": "Melissa & Doug Scratch Art Box of Rainbow Mini Notes",
+	  "price": 18.99
     },
 	{
       "id": 11,
-      "title": "Scratch Art Black Coated Scratchboards",
-	  "cost": 10.52
+      "description": "Scratch Art Black Coated Scratchboards",
+	  "price": 10.52
     },
 	{
       "id": 12,
-      "title": "Waterman Graduate Chrome Fountain Pen",
-	  "cost": 13.63
+      "description": "Waterman Graduate Chrome Fountain Pen",
+	  "price": 13.63
     },
 	{
       "id": 13,
-      "title": "Black & Blue Ink Cartridges for Fountain Pens",
-	  "cost": 13.90
+      "description": "Black & Blue Ink Cartridges for Fountain Pens",
+	  "price": 13.90
     },
 	{
       "id": 14,
-      "title": "Lyss Electronics CP601 Portable Cassette Player",
-	  "cost": 14.95
+      "description": "Lyss Electronics CP601 Portable Cassette Player",
+	  "price": 14.95
     }
   ],
   "profile": {
